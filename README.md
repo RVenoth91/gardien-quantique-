@@ -140,19 +140,38 @@
 
 ---
 
-## 13. INFORMATIONS AUTEUR
+## 13. INFORMATIONS AUTEUR ET LIENS
 
 | Information | Détail |
 |-------------|--------|
 | Nom complet | Venoth RAJASEKARAN |
 | Pseudo GitHub | RVenoth91 |
 | Lien GitHub | https://github.com/RVenoth91 |
+| Lien Portfolio | https://portfoliovenothrajasekaran.lovable.app/ |
 | Adresse email | venothrajasekaran13@gmail.com |
-| Formation recherchée | Recherche d'Alternance Bac+3 Cybersécurité / Administration Systèmes & Réseaux |
+| Formation | BTS SIO Option SISR obtenu en 2025 (diplômé depuis 1 an) |
+| Formation recherchée | Alternance Bac+3 Cybersécurité / Bachelor Cybersécurité |
+| Durée souhaitée | 12 mois (possible 2 ans) |
+| Disponibilité | Rentrée Septembre 2026 |
+| Objectif professionnel | Devenir Ingénieur en Cybersécurité (Master) |
 
 ---
 
-## 14. RÉSUMÉ FINAL
+## 14. PARCOURS ET MOTIVATION
+
+| Point | Détail |
+|-------|--------|
+| Situation actuelle | BTS SIO SISR obtenu en 2025, recherche d'alternance depuis 1 an |
+| Problème rencontré | Je n'ai pas encore trouvé d'alternance malgré ma motivation |
+| Ce que je recherche | Une alternance pour une 3ème année de Bachelor en Cybersécurité |
+| Durée d'alternance | 12 mois (ou 2 ans si possible, cela me va parfaitement) |
+| Objectif à long terme | Poursuivre en Master pour devenir Ingénieur en Cybersécurité |
+| Postes acceptés | Cybersécurité (priorité), Administration Système & Réseaux, Support Informatique |
+| Engagement | Tout poste en informatique pour valider mon Bachelor et continuer à apprendre |
+
+---
+
+## 15. RÉSUMÉ FINAL
 
 | Point | Récapitulatif |
 |-------|---------------|
@@ -165,3 +184,19 @@
 ---
 
 *Projet créé dans le cadre d'une recherche d'alternance en Cybersécurité par Venoth RAJASEKARAN (RVenoth91)*
+
+---
+
+## 📞 CONTACT POUR LES RECRUTEURS
+
+| Information | Détail |
+|-------------|--------|
+| Nom | Venoth RAJASEKARAN |
+| Email | venothrajasekaran13@gmail.com |
+| GitHub | https://github.com/RVenoth91 |
+| Portfolio | https://portfoliovenothrajasekaran.lovable.app/ |
+| Formation | BTS SIO SISR (2025) |
+| Recherche | Alternance Bac+3 Cybersécurité - Septembre 2026 |
+| Mobilité | France |
+
+**Je suis très motivé et prêt à m'investir pleinement dans votre entreprise pour apprendre et contribuer à vos projets Cybersécurité. Consultez mon portfolio pour découvrir mes autres projets : https://portfoliovenothrajasekaran.lovable.app/** 
