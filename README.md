@@ -148,6 +148,7 @@
 | Pseudo GitHub | RVenoth91 |
 | Lien GitHub | https://github.com/RVenoth91 |
 | Lien Portfolio | https://portfoliovenothrajasekaran.lovable.app/ |
+| Lien LinkedIn | https://www.linkedin.com/in/venoth-rajasekaran-684b60291/ |
 | Adresse email | venothrajasekaran13@gmail.com |
 | Formation | BTS SIO Option SISR obtenu en 2025 (diplômé depuis 1 an) |
 | Formation recherchée | Alternance Bac+3 Cybersécurité / Bachelor Cybersécurité |
@@ -195,8 +196,11 @@
 | Email | venothrajasekaran13@gmail.com |
 | GitHub | https://github.com/RVenoth91 |
 | Portfolio | https://portfoliovenothrajasekaran.lovable.app/ |
+| LinkedIn | https://www.linkedin.com/in/venoth-rajasekaran-684b60291/ |
 | Formation | BTS SIO SISR (2025) |
 | Recherche | Alternance Bac+3 Cybersécurité - Septembre 2026 |
 | Mobilité | France |
 
-**Je suis très motivé et prêt à m'investir pleinement dans votre entreprise pour apprendre et contribuer à vos projets Cybersécurité. Consultez mon portfolio pour découvrir mes autres projets : https://portfoliovenothrajasekaran.lovable.app/** 
+**Je suis très motivé et prêt à m'investir pleinement dans votre entreprise pour apprendre et contribuer à vos projets Cybersécurité.**
+
+**🔗 Retrouvez tous mes projets sur mon portfolio : https://portfoliovenothrajasekaran.lovable.app/** 
