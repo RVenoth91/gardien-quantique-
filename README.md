@@ -224,7 +224,7 @@
 | N° | Projet | Description | Lien |
 |----|--------|-------------|------|
 | 1 | Password Strength Checker | Vérificateur de force de mot de passe | https://github.com/RVenoth91/password-checker |
-| 2 | Détecteur IA - Hasard vs Intelligence | Classifieur IA texte humain vs aléatoire | https://github.com/RVenoth91/detecteur-ia-hasard |
-| 3 | Browser Fingerprinting | Détecteur d'empreinte digitale de navigateur | https://github.com/RVenoth91/browser-fingerprinting |
-| 4 | Détecteur d'Émotions par le Clavier | Détecte les émotions par la frappe clavier | https://github.com/RVenoth91/detecteur-emotions-clavier |
-| 5 | Gardien Quantique | Simulation d'authentification post-quantique | https://github.com/RVenoth91/gardien-quantique | 
+| 2 | Détecteur IA - Hasard vs Intelligence | Classifieur IA texte humain vs aléatoire | https://github.com/RVenoth91/detecteur-ia-hasard- |
+| 3 | Browser Fingerprinting | Détecteur d'empreinte digitale de navigateur | https://github.com/RVenoth91/browser-fingerprinting- |
+| 4 | Détecteur d'Émotions par le Clavier | Détecte les émotions par la frappe clavier | https://github.com/RVenoth91/detecteur-emotions-clavier- |
+| 5 | Gardien Quantique | Simulation d'authentification post-quantique | https://github.com/RVenoth91/gardien-quantique- | 
