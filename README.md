@@ -1,21 +1,167 @@
 # ⚛️ GARDIEN QUANTIQUE - Simulation d'authentification post-quantique
 
-| Section | Détails |
-|---------|---------|
-| **1. Présentation** | Projet pédagogique simulant les principes de cryptographie post-quantique (intrication, superposition, incertitude, non-clonage) pour créer un système d'authentification innovant en Python 3 |
-| **2. Objectifs** | Comprendre et vulgariser les concepts quantiques / Créer un système d'authentification sécurisé / Démontrer son innovation en cybersécurité |
-| **3. Technologies** | Python 3 (langage principal) / hashlib (SHA-3 pour hachage sécurisé) / secrets (génération cryptographique) / JSON (sauvegarde des données) / datetime (horodatage) |
-| **4. Installation** | Télécharger quantique.py / Ouvrir terminal dans le dossier / Exécuter `python quantique.py` |
-| **5. Menu** | 1 = Créer un compte (génère état quantique + mot de passe unique) / 2 = Se connecter (vérification par intrication simulée) / 3 = Afficher niveau sécurité simulé / 4 = Informations sur le projet / 5 = Quitter |
-| **6. Exemple** | Étape 1 : choix 1 → entrez "Venoth" → mot de passe généré "a3f5c2e1b8d4f7h9" / Étape 2 : choix 2 → entrez "Venoth" → entrez "a3f5c2e1b8d4f7h9" → "Connexion réussie" |
-| **7. Concepts quantiques** | Superposition = génération d'un état via nombres aléatoires cryptographiques / Intrication = lien utilisateur-mot de passe via identifiant unique / Principe d'incertitude = détection des espionnages par vérification d'intégrité / Non-clonage = auto-destruction du mot de passe en cas d'intrusion |
-| **8. Sécurité simulée** | Cryptographie post-quantique = ACTIVE (SHA-3 NIST) / Intrication = SIMULÉE / Principe incertitude = APPLIQUÉ / Résistance quantique = THÉORIQUE / Auto-destruction = PRÊTE |
-| **9. Compétences** | Compréhension concepts quantiques = ⭐⭐⭐ / Algorithmes cryptographiques = ⭐⭐⭐ / Programmation Python = ⭐⭐⭐ / Innovation et créativité = ⭐⭐⭐⭐ / Vulgarisation scientifique = ⭐⭐⭐⭐ |
-| **10. Architecture** | quantique.py (programme principal) / fingerprints.json (base données utilisateurs créée auto) / .gitignore (fichiers ignorés Git) |
-| **11. Limites** | ⚠️ Pas un vrai système quantique (ordinateurs quantiques n'existent pas à cette échelle) / ⚠️ Simulation utilise algorithmes classiques / ⚠️ Projet pédagogique et démonstratif uniquement / ⚠️ Ne pas utiliser en production |
-| **12. Améliorations** | Ajouter liboqs (crypto post-quantique réelle) / Créer interface web Flask / Ajouter base données chiffrée / Implémenter 2FA / Ajouter tests unitaires |
-| **13. Liens utiles** | ANSSI cryptographie post-quantique : https://www.ssi.gouv.fr/guide/post-quantique/ / Prix Nobel physique 2022 (intrication) : https://www.nobelprize.org/prizes/physics/2022/summary/ / Standards NIST : https://csrc.nist.gov/projects/post-quantum-cryptography |
-| **14. Auteur** | Nom : Venoth RAJASEKARAN / Pseudo : RVenoth91 / GitHub : https://github.com/RVenoth91 / Email : venothrajasekaran13@gmail.com / Recherche : Alternance Bac+3 Cybersécurité / Administration Systèmes & Réseaux |
-| **15. Résumé** | Projet démontrant ma curiosité pour les technologies de demain et ma capacité à vulgariser des concepts complexes. Simulation pédagogique uniquement - pas un vrai système quantique. |
+## 1. PRÉSENTATION
 
-*Créé dans le cadre d'une recherche d'alternance en Cybersécurité*
+| Élément | Description |
+|---------|-------------|
+| Nom du projet | Gardien Quantique |
+| Type | Simulation pédagogique |
+| Domaine | Cryptographie post-quantique / Cybersécurité |
+| Langage | Python 3 |
+| Objectif principal | Démontrer les concepts d'intrication quantique appliqués à l'authentification |
+
+---
+
+## 2. TECHNOLOGIES UTILISÉES
+
+| Technologie | Utilisation |
+|-------------|-------------|
+| Python 3 | Langage principal du projet |
+| hashlib | SHA-3 pour le hachage sécurisé (standard NIST) |
+| secrets | Génération cryptographique de nombres aléatoires |
+| JSON | Sauvegarde des données utilisateur dans fingerprints.json |
+| datetime | Horodatage des connexions et créations de comptes |
+
+---
+
+## 3. CONCEPTS QUANTIQUES SIMULÉS
+
+| Concept quantique | Simulation dans le code | Explication |
+|-------------------|------------------------|-------------|
+| Superposition | Génération d'un état à partir de nombres aléatoires cryptographiques | Plusieurs états possibles avant mesure |
+| Intrication | Lien entre l'utilisateur et son mot de passe via un identifiant unique | Deux particules liées quel que soit la distance |
+| Principe d'incertitude | Détection des "espionnages" par vérification d'intégrité | L'observation modifie l'état mesuré |
+| Non-clonage | Auto-destruction du mot de passe en cas d'intrusion | Impossible de copier un état quantique |
+
+> ⚠️ Note importante : Ceci est une simulation pédagogique, pas un vrai système quantique.
+
+---
+
+## 4. FONCTIONNALITÉS DU MENU
+
+| Option | Action | Description détaillée |
+|--------|--------|----------------------|
+| 1 | Créer un compte | Génère un état quantique unique et un mot de passe post-quantique |
+| 2 | Se connecter | Vérifie l'identité par intrication quantique simulée |
+| 3 | Niveau sécurité | Affiche le rapport de sécurité quantique complet |
+| 4 | Infos projet | Présente les concepts et limites du projet |
+| 5 | Quitter | Ferme l'application proprement |
+
+---
+
+## 5. INSTALLATION
+
+| Étape | Action |
+|-------|--------|
+| 1 | Télécharger le fichier quantique.py |
+| 2 | Ouvrir un terminal dans le dossier du fichier |
+| 3 | Exécuter la commande : `python quantique.py` |
+| 4 | Suivre les instructions du menu |
+
+---
+
+## 6. EXEMPLE D'EXÉCUTION
+
+| Étape | Action | Résultat |
+|-------|--------|----------|
+| 1 | Lancer `python quantique.py` | Affichage du menu principal |
+| 2 | Choisir option 1 | Demande du nom d'utilisateur |
+| 3 | Entrer "Venoth" | Génération d'un mot de passe : a3f5c2e1b8d4f7h9 |
+| 4 | Choisir option 2 | Demande du nom et mot de passe |
+| 5 | Entrer "Venoth" et le mot de passe | Affichage : "✅ CONNEXION RÉUSSIE" |
+
+---
+
+## 7. NIVEAU DE SÉCURITÉ SIMULÉ
+
+| Critère | Statut | Explication |
+|---------|--------|-------------|
+| Cryptographie post-quantique | ✅ ACTIVE | Utilisation de SHA-3 (standard NIST validé) |
+| Intrication quantique | ✅ SIMULÉE | Identifiant unique lié à l'utilisateur |
+| Principe d'incertitude | ✅ APPLIQUÉ | Détection des modifications d'état |
+| Résistance aux ordinateurs quantiques | ✅ THÉORIQUE | Simulation des principes de résistance |
+| Auto-destruction | ✅ PRÊTE | Destruction du mot de passe en cas d'intrusion |
+
+---
+
+## 8. COMPÉTENCES DÉMONTRÉES
+
+| Compétence | Niveau | Justification |
+|------------|--------|---------------|
+| Compréhension des concepts quantiques | ⭐⭐⭐ | Vulgarisation de l'intrication et superposition |
+| Algorithmes cryptographiques | ⭐⭐⭐ | Utilisation de SHA-3 et de la génération sécurisée |
+| Programmation Python | ⭐⭐⭐ | Code structuré, documenté et modulaire |
+| Innovation et créativité | ⭐⭐⭐⭐ | Concept original d'authentification quantique simulée |
+| Vulgarisation scientifique | ⭐⭐⭐⭐ | Explication claire de concepts complexes |
+
+---
+
+## 9. ARCHITECTURE DU PROJET
+
+| Fichier | Rôle | Généré automatiquement ? |
+|---------|------|--------------------------|
+| quantique.py | Programme principal | Non (fichier source) |
+| fingerprints.json | Base de données des utilisateurs | Oui (à la première exécution) |
+| .gitignore | Fichiers ignorés par Git | Non (à créer manuellement) |
+
+---
+
+## 10. LIMITES DU PROJET
+
+| Limite | Explication |
+|--------|-------------|
+| Pas un vrai système quantique | Les ordinateurs quantiques n'existent pas encore à cette échelle industrielle |
+| Simulation classique | La simulation utilise des algorithmes classiques, pas des qubits réels |
+| Usage pédagogique | Projet à but éducatif et démonstratif uniquement |
+| Non utilisable en production | Ne pas utiliser pour de vraies données sensibles |
+
+---
+
+## 11. AMÉLIORATIONS POSSIBLES
+
+| Amélioration | Difficulté | Priorité |
+|--------------|------------|----------|
+| Ajouter une bibliothèque de cryptographie post-quantique réelle (liboqs) | Moyenne | Haute |
+| Créer une interface web avec Flask | Moyenne | Moyenne |
+| Ajouter une base de données chiffrée (SQLite + AES) | Facile | Moyenne |
+| Implémenter une authentification à deux facteurs | Moyenne | Haute |
+| Ajouter des tests unitaires avec pytest | Facile | Basse |
+| Déployer sur Azure avec Docker | Difficile | Basse |
+
+---
+
+## 12. LIENS UTILES POUR COMPRENDRE
+
+| Sujet | Lien | Description |
+|-------|------|-------------|
+| Cryptographie post-quantique (ANSSI) | https://www.ssi.gouv.fr/guide/post-quantique/ | Guide officiel de l'agence française de cybersécurité |
+| Prix Nobel physique 2022 | https://www.nobelprize.org/prizes/physics/2022/summary/ | Découverte de l'intrication quantique |
+| Standards NIST | https://csrc.nist.gov/projects/post-quantum-cryptography | Standards américains post-quantiques |
+
+---
+
+## 13. INFORMATIONS AUTEUR
+
+| Information | Détail |
+|-------------|--------|
+| Nom complet | Venoth RAJASEKARAN |
+| Pseudo GitHub | RVenoth91 |
+| Lien GitHub | https://github.com/RVenoth91 |
+| Adresse email | venothrajasekaran13@gmail.com |
+| Formation recherchée | Recherche d'Alternance Bac+3 Cybersécurité / Administration Systèmes & Réseaux |
+
+---
+
+## 14. RÉSUMÉ FINAL
+
+| Point | Récapitulatif |
+|-------|---------------|
+| Ce que fait le projet | Simule une authentification post-quantique |
+| Ce qu'il utilise | Python, SHA-3, JSON, secrets |
+| Ce qu'il démontre | Concepts quantiques, algorithmes cryptographiques, innovation |
+| Ce qu'il n'est pas | Un vrai système quantique (simulation pédagogique) |
+| Public cible | Recruteurs en cybersécurité, passionnés de technologies |
+
+---
+
+*Projet créé dans le cadre d'une recherche d'alternance en Cybersécurité par Venoth RAJASEKARAN (RVenoth91)*
