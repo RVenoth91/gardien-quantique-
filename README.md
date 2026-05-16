@@ -37,7 +37,18 @@
 
 ---
 
-## 4. FONCTIONNALITÉS DU MENU
+## 4. MES AUTRES PROJETS
+
+| Projet | Description | Lien |
+|--------|-------------|------|
+| **Détecteur IA - Hasard vs Intelligence** | Classifieur IA qui devine si une phrase a été écrite par un humain ou générée aléatoirement | https://github.com/RVenoth91/detecteur-ia-hasard |
+| **Browser Fingerprinting** | Détecteur d'empreinte digitale de navigateur pour identifier les utilisateurs sans cookies | https://github.com/RVenoth91/browser-fingerprinting |
+| **Détecteur d'Émotions par le Clavier** | Première mondiale - Détecte les émotions (joie, tristesse, colère, stress) par la façon de taper | https://github.com/RVenoth91/detecteur-emotions-clavier |
+| **Gardien Quantique** | Simulation d'authentification post-quantique par intrication quantique (projet actuel) | https://github.com/RVenoth91/gardien-quantique |
+
+---
+
+## 5. FONCTIONNALITÉS DU MENU
 
 | Option | Action | Description détaillée |
 |--------|--------|----------------------|
@@ -49,7 +60,7 @@
 
 ---
 
-## 5. INSTALLATION
+## 6. INSTALLATION
 
 | Étape | Action |
 |-------|--------|
@@ -60,7 +71,7 @@
 
 ---
 
-## 6. EXEMPLE D'EXÉCUTION
+## 7. EXEMPLE D'EXÉCUTION
 
 | Étape | Action | Résultat |
 |-------|--------|----------|
@@ -72,7 +83,7 @@
 
 ---
 
-## 7. NIVEAU DE SÉCURITÉ SIMULÉ
+## 8. NIVEAU DE SÉCURITÉ SIMULÉ
 
 | Critère | Statut | Explication |
 |---------|--------|-------------|
@@ -84,7 +95,7 @@
 
 ---
 
-## 8. COMPÉTENCES DÉMONTRÉES
+## 9. COMPÉTENCES DÉMONTRÉES
 
 | Compétence | Niveau | Justification |
 |------------|--------|---------------|
@@ -96,7 +107,7 @@
 
 ---
 
-## 9. ARCHITECTURE DU PROJET
+## 10. ARCHITECTURE DU PROJET
 
 | Fichier | Rôle | Généré automatiquement ? |
 |---------|------|--------------------------|
@@ -106,7 +117,7 @@
 
 ---
 
-## 10. LIMITES DU PROJET
+## 11. LIMITES DU PROJET
 
 | Limite | Explication |
 |--------|-------------|
@@ -117,7 +128,7 @@
 
 ---
 
-## 11. AMÉLIORATIONS POSSIBLES
+## 12. AMÉLIORATIONS POSSIBLES
 
 | Amélioration | Difficulté | Priorité |
 |--------------|------------|----------|
@@ -130,7 +141,7 @@
 
 ---
 
-## 12. LIENS UTILES POUR COMPRENDRE
+## 13. LIENS UTILES POUR COMPRENDRE
 
 | Sujet | Lien | Description |
 |-------|------|-------------|
@@ -140,7 +151,7 @@
 
 ---
 
-## 13. INFORMATIONS AUTEUR ET LIENS
+## 14. INFORMATIONS AUTEUR ET LIENS
 
 | Information | Détail |
 |-------------|--------|
@@ -158,7 +169,7 @@
 
 ---
 
-## 14. PARCOURS ET MOTIVATION
+## 15. PARCOURS ET MOTIVATION
 
 | Point | Détail |
 |-------|--------|
@@ -172,7 +183,7 @@
 
 ---
 
-## 15. RÉSUMÉ FINAL
+## 16. RÉSUMÉ FINAL
 
 | Point | Récapitulatif |
 |-------|---------------|
@@ -201,6 +212,4 @@
 | Recherche | Alternance Bac+3 Cybersécurité - Septembre 2026 |
 | Mobilité | France |
 
-**Je suis très motivé et prêt à m'investir pleinement dans votre entreprise pour apprendre et contribuer à vos projets Cybersécurité.**
-
-**🔗 Retrouvez tous mes projets sur mon portfolio : https://portfoliovenothrajasekaran.lovable.app/** 
+**Je suis très motivé et prêt à m'investir pleinement dans votre entreprise pour apprendre et contribuer à vos projets Cybersécurité.** 
