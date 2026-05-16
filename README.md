@@ -37,14 +37,15 @@
 
 ---
 
-## 4. MES AUTRES PROJETS
+## 4. MES 5 PROJETS SUR GITHUB
 
-| Projet | Description | Lien |
-|--------|-------------|------|
-| **Détecteur IA - Hasard vs Intelligence** | Classifieur IA qui devine si une phrase a été écrite par un humain ou générée aléatoirement | https://github.com/RVenoth91/detecteur-ia-hasard |
-| **Browser Fingerprinting** | Détecteur d'empreinte digitale de navigateur pour identifier les utilisateurs sans cookies | https://github.com/RVenoth91/browser-fingerprinting |
-| **Détecteur d'Émotions par le Clavier** | Première mondiale - Détecte les émotions (joie, tristesse, colère, stress) par la façon de taper | https://github.com/RVenoth91/detecteur-emotions-clavier |
-| **Gardien Quantique** | Simulation d'authentification post-quantique par intrication quantique (projet actuel) | https://github.com/RVenoth91/gardien-quantique |
+| N° | Projet | Description | Lien |
+|----|--------|-------------|------|
+| 1 | **Password Strength Checker** | Vérificateur de force de mot de passe (cybersécurité) | https://github.com/RVenoth91/password-checker |
+| 2 | **Détecteur IA - Hasard vs Intelligence** | Classifieur IA qui devine si une phrase est humaine ou aléatoire | https://github.com/RVenoth91/detecteur-ia-hasard |
+| 3 | **Browser Fingerprinting** | Détecteur d'empreinte digitale de navigateur | https://github.com/RVenoth91/browser-fingerprinting |
+| 4 | **Détecteur d'Émotions par le Clavier** | Détecte les émotions (joie, tristesse, colère, stress) par la façon de taper | https://github.com/RVenoth91/detecteur-emotions-clavier |
+| 5 | **Gardien Quantique** | Simulation d'authentification post-quantique (projet actuel) | https://github.com/RVenoth91/gardien-quantique |
 
 ---
 
@@ -212,4 +213,18 @@
 | Recherche | Alternance Bac+3 Cybersécurité - Septembre 2026 |
 | Mobilité | France |
 
-**Je suis très motivé et prêt à m'investir pleinement dans votre entreprise pour apprendre et contribuer à vos projets Cybersécurité.** 
+**Je suis très motivé et prêt à m'investir pleinement dans votre entreprise pour apprendre et contribuer à vos projets Cybersécurité.**
+
+**🔗 Retrouvez tous mes projets sur mon portfolio : https://portfoliovenothrajasekaran.lovable.app/**
+
+---
+
+## 📁 MES 5 PROJETS SUR GITHUB (récapitulatif)
+
+| N° | Projet | Description | Lien |
+|----|--------|-------------|------|
+| 1 | Password Strength Checker | Vérificateur de force de mot de passe | https://github.com/RVenoth91/password-checker |
+| 2 | Détecteur IA - Hasard vs Intelligence | Classifieur IA texte humain vs aléatoire | https://github.com/RVenoth91/detecteur-ia-hasard |
+| 3 | Browser Fingerprinting | Détecteur d'empreinte digitale de navigateur | https://github.com/RVenoth91/browser-fingerprinting |
+| 4 | Détecteur d'Émotions par le Clavier | Détecte les émotions par la frappe clavier | https://github.com/RVenoth91/detecteur-emotions-clavier |
+| 5 | Gardien Quantique | Simulation d'authentification post-quantique | https://github.com/RVenoth91/gardien-quantique | 
