@@ -200,24 +200,13 @@ class SystemeAuthentificationQuantique:
 
 def statut_invention():
     print("\n" + "=" * 70)
-    print("🏆 BREVET INTERNATIONAL N° Q-2026-VENOTH-01")
+    print("📜 INFORMATIONS SUR LE PROJET")
     print("=" * 70)
-    print("\n📜 TITRE :")
-    print("   SYSTEME D'AUTHENTIFICATION PAR INTRICATION QUANTIQUE SIMULEE")
-    
-    print("\n👨‍🔬 INVENTEUR :")
-    print("   Venoth RAJASEKARAN")
-    
-    print("\n🌍 PORTEE MONDIALE :")
-    print("   ✓ Etats-Unis : Brevet depose")
-    print("   ✓ Europe : Brevet depose")
-    print("   ✓ Asie : Brevet depose")
-    
-    print("\n🏆 RECOMPENSES :")
-    print("   • Prix Nobel de Cybersecurite 2026 (Attendu)")
-    print("   • Innovation de l'Annee - Forbes")
-    print("   • Top 10 Inventions Mondiales - Time Magazine")
-    
+    print("\n📌 Ce projet est une simulation pédagogique")
+    print("   Il démontre les concepts de cryptographie post-quantique")
+    print("\n👨‍💻 Créé par : Venoth RAJASEKARAN")
+    print("📚 Objectif : Recherche d'alternance en Cybersécurité")
+    print("\n🔗 GitHub : https://github.com/RVenoth91")
     print("\n⚛️" * 70)
 
 def menu():
